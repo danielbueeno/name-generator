@@ -16,4 +16,4 @@ Beginner Flutter project, that generates names from a package named english_word
 
 ## Action!
 
-<img src="https://user-images.githubusercontent.com/56845535/186216101-6593b309-04ab-4343-b84c-d2bc1374c018.gif" width="500" height="860"/>
+<img src="https://user-images.githubusercontent.com/56845535/186216101-6593b309-04ab-4343-b84c-d2bc1374c018.gif" width="300" height="660"/>
